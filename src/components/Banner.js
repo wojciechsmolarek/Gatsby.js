@@ -1,16 +1,15 @@
 import React from 'react'
 
-const Banner = (props) => (
+const Banner = () => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>Hi, my name is Wojciech</h1>
+                <h1>Cześć, jestem Wojciech.</h1>
             </header>
             <div className="content">
-                <p>A responsive site template designed by HTML5 UP<br />
-                and released under the Creative Commons.</p>
+                <p>Na co dzień zajmuję się pozycjonowaniem stron internetowych. Zapraszam do magicznego świata SEO.</p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" className="button next scrolly">Zaczynajmy!</a></li>
                 </ul>
             </div>
         </div>
