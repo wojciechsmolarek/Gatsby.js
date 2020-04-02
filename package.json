@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-forty-v2",
-  "description": "Gatsby Starter - Forty V2",
+  "name": "gatsby-wojciechsmolarek",
+  "description": "Wojciech Smolarek - Portfolio",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Wojciech Smolarek",
   "dependencies": {
     "gatsby": "^2.19.5",
     "gatsby-plugin-manifest": "^2.2.38",
@@ -29,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/wojciechsmolarek/Gatsby.js"
   }
 }

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Wojciech Smolarek",
-    author: "Wojciech Smolarek",
-    description: ""
+    title: `Gatsby`,
+    siteUrl: `https://gatsby.wojciechsmolarek.pl/`,
+    description: `Portfolio`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
