@@ -19,7 +19,8 @@ class HomeIndex extends React.Component {
                 <Helmet
                     title="🌟 Wojciech Smolarek | Pozycjoner stron internetowych i webdeveloper - Jarocin, Poznań"
                     meta={[
-                        { name: 'description', content: 'Cześć, mam na imię Wojciech i na co dzień zajmuję się pozycjonowaniem stron internetowych. Ciekawi Cię to co robię? ✅ Sprawdź koniecznie moją witrynę!' },
+                      { name: 'description', content: 'Cześć, mam na imię Wojciech i na co dzień zajmuję się pozycjonowaniem stron internetowych. Ciekawi Cię to co robię? ✅ Sprawdź koniecznie moją witrynę!' },
+                      { name: 'robots', content: 'noindex' },
                     ]}
                 >
                 </Helmet>
